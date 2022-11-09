@@ -12,8 +12,8 @@ const Testimonials = () => (
       </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          Everything you need to accept card payments and grow your business
-          anywhere on the planet.
+        AI has been making its way into the architecture industry for a while now, but it's only recently 
+        that we've seen the technology make a meaningful impact on the design process.
         </p>
       </div>
     </div>
