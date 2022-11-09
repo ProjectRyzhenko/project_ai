@@ -28,9 +28,8 @@ const Hero = () => {
           SPACE.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+        Artificial intelligence can help architects better understand how their designs will respond to environmental conditions, they 
+        can help them optimize their designs for cost, and they can even help them create new types of buildings that would have been impossible without AI.
         </p>
       </div>
 
