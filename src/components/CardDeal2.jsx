@@ -11,7 +11,7 @@ const CardDeal2 = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      AI solutions for <br className="sm:block hidden" /> Architecture design
+      AI solutions for <br className="sm:block hidden" /> Architecture 
       </h2>
 
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
