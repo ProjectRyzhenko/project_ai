@@ -22,7 +22,7 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> with AI Engineering
+        You do the business <br className="sm:block hidden" /> with AI Engineering
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       Enterprises that have adopted AI engineering practices to build and manage adaptive 
