@@ -11,22 +11,25 @@ const CardDeal2 = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      AI solutions for <br className="sm:block hidden" /> Architecture design
       </h2>
+
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      The first step in using an AI solution is to gather data about the building that you want to design.
+      You can do this by taking pictures of the building's exterior, or by taking measurements of its dimensions. 
+      The next step is to upload these photos and measurements into your computer, 
+      which will enable you to create a 3D model of the building. 
       </p>
 
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      This model can then be used in conjunction with other software programs
+      such as CAD or Revit, allowing you to analyze it further and make changes if necessary.
+
       </p>
 
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        Once you've made these changes, you can export them back out into a format that can 
+        be used by architects who are designing new buildings or renovating existing ones.
       </p>
 
      
