@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Improved efficiency",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The use of AI engineering practices results in fewer defects, which means fewer bugs that need fixing before a product can launch. This also reduces time spent on bug fixes after a product has launched, allowing developers to focus more on new features and improvements.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Improved performance",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "With better testing processes in place, developers can be confident about the quality of their code before it goes out into production—which means lower error rates for users and less downtime for companies using these products,and less money spent fixing problems",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Reduced costs",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "More efficient testing processes mean faster time-to-market—and faster time-to-market means lower overhead costs.",
   },
 ];
 

@@ -22,13 +22,21 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        You do the business, <br className="sm:block hidden" /> with AI Engineering
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      Enterprises that have adopted AI engineering practices to build and manage adaptive 
+      AI systems will outperform their peers in the operationalizing AI models by at least 25%.
+      </p>
+
+      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      The key to building and managing adaptive AI systems is to use an approach called "AI Engineering." 
+      </p>
+
+      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      This approach is based on a set of principles that guide the design of both software and hardware architectures, 
+      as well as the processes used to create them. 
+      It also incorporates best practices from other disciplines, such as DevOps.
       </p>
 
       <Button styles={`mt-10`} />

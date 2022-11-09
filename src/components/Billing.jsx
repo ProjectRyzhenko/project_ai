@@ -14,19 +14,21 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+      The future of apps <br className="sm:block hidden" />  with AI
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+      The future of mobile apps is no longer one app to rule them all. Instead, the future is a superapp—an app that provides end users 
+      (e.g., customers, partners or employees) with a set of core features and access to independently created miniapps. 
+      The superapp is built as a platform to deliver consistent and personalized app experiences.
       </p>
 
-      <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
-        <img src={apple} alt="google_play" className="w-[128.86px] h-[42.05px] object-contain mr-5 cursor-pointer" />
-        <img src={google} alt="google_play" className="w-[144.17px] h-[43.08px] object-contain cursor-pointer" />
-      </div>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      From an engineering perspective, superapps allow teams to create smaller projects that are easier to manage and maintain than larger ones. 
+      For example, if you wanted to build an employee app but didn't have the time or resources right now,
+      you could create a "mini-app" in your existing platform that would allow employees access
+      </p>
+
+            
     </div>
   </section>
 );
