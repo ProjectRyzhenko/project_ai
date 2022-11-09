@@ -47,7 +47,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "AI has been making its way into the architecture industry for a while now, but it's only recently that we've seen the technology make a meaningful impact on the design process.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "AI has been used in the architecture design process for more than a decade, but recent advances are making it a more useful tool for architects.",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -63,7 +63,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "AI solutions can save time, they can increase accuracy, they require less human input, and they help architects think outside the box when it comes to designing buildings.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
