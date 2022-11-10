@@ -94,7 +94,7 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSeVEEIyqC4nrey-7PkPKpnp8rIVbi7yVwr20ldyL5OYO6aiLQ/viewform?vc=0&c=0&w=1&flr=0",
       },
       {
         name: "How it Works",

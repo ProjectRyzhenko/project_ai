@@ -20,7 +20,7 @@ const Hero = () => {
             <span className="text-gradient">URBAN</span>{" "}
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
-            <GetStarted />
+            <GetStarted  />
           </div>
         </div>
 
@@ -44,7 +44,11 @@ const Hero = () => {
       </div>
 
       <div className={`ss:hidden ${styles.flexCenter}`}>
-        <GetStarted />
+        <GetStarted type="button"
+    onClick={(e) => {
+      e.preventDefault();
+      window.location.href='http://google.com';
+      }}/>
       </div>
     </section>
   );
